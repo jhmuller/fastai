@@ -1,6 +1,3 @@
-name: fastai
-channels:
-  - defaults
 dependencies:
   - pip
   - pillow
@@ -14,8 +11,6 @@ dependencies:
   - ipywidgets
   - requests
   - jupyter
-  - pip:
-    - fastai2
-    - fastprogress
-    - pytorch
-prefix: /opt/conda/envs/fastai
+  - fastai2
+  - fastprogress
+  - pytorch
