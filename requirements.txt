@@ -3,7 +3,6 @@
  scipy
  pyyaml
  scikit-learn
- graphite2
  pandas
  graphviz
  matplotlib
