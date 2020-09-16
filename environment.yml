@@ -15,8 +15,7 @@ dependencies:
   - pandas
   - graphviz
   - matplotlib
-  - cuda92
-  - fastai
+  - fastai2
   - pytorch[version='>=1.3.0']
   - requests
   - jupyter
