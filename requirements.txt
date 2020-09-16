@@ -1,0 +1,15 @@
+ pip
+ pillow
+ scipy
+ pyyaml
+ scikit-learn
+ graphite2
+ pandas
+ graphviz
+ matplotlib
+ ipywidgets
+ requests
+ jupyter
+ fastai2
+ fastprogress
+ pytorch
