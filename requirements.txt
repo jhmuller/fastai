@@ -11,4 +11,4 @@
  jupyter
  fastai2
  fastprogress
- pytorch
+ torch
