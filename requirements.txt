@@ -9,6 +9,6 @@
  ipywidgets
  requests
  jupyter
- fastai2
+ fastai>=2.0
  fastprogress
  torch
